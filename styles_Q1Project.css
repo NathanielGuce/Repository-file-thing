@@ -1,0 +1,56 @@
+body {
+	background-color: darkgray;
+	background-size: cover;
+	background-repeat: revert-layer;
+	background-image: url(bgimage.jpeg)
+
+}
+
+h2 {
+	font-family: monospace;
+}
+
+span {
+	font-family: fantasy, papyrus;
+}
+
+div {
+	text-align: center;
+	margin: 50px;
+	background-color: darkgray;
+	opacity: 0.6;
+	border: 200;
+	padding: 50px;
+}
+
+header {
+	background-color: lightslategray;
+	text-align: left;
+	border-image-width: 100px;
+	opacity: 0.6;
+	list-style: none;
+    display: flow;
+    gap: 20px;
+    text-align: center;
+    font-family: fantasy, papyrus;
+}
+
+img {
+	width: 150px;
+	height: 150px;
+}
+
+p {
+	font-size: 50px;
+	font-family: fantasy, papyrus;
+}
+
+.main {
+	background-color: darkcyan;
+	opacity: 0.5;
+}
+
+li {
+	font-size: 20px;
+}
+
